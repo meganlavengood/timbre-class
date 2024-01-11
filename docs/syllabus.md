@@ -9,26 +9,28 @@ order: 4
 ## Table of Contents <!-- omit in toc -->
 
 - [Inclusivity in Learning](#inclusivity-in-learning)
+  - [Content Warning](#content-warning)
   - [Community Values](#community-values)
-- [Instructor Information](#instructor-information)
+- [Instructor Info](#instructor-info)
   - [One-on-one appointments](#one-on-one-appointments)
-  - [Tutoring](#tutoring)
 - [Course Information](#course-information)
   - [Meetings](#meetings)
-  - [Learning Objectives](#learning-objectives)
-  - [Course Materials](#course-materials)
+  - [Goals](#goals)
+  - [Organization and Modality](#organization-and-modality)
+  - [Recommended Prerequisite](#recommended-prerequisite)
+- [Course Materials](#course-materials)
 - [Grading](#grading)
-- [Attendance](#attendance)
-- [Assignments](#assignments)
-  - [Digital submission of assignments: how to scan](#digital-submission-of-assignments-how-to-scan)
-  - [Daily Homework (not for a grade)](#daily-homework-not-for-a-grade)
-  - [Composition projects](#composition-projects)
-- [Course Overview](#course-overview)
-  - [Brief Calendar](#brief-calendar)
-  - [Important Dates](#important-dates)
-- [Mason Policies](#mason-policies)
-  - [Honor Code](#honor-code)
-  - [ChatGPT and other AI tools](#chatgpt-and-other-ai-tools)
+  - [Weighting](#weighting)
+  - [Letter grades](#letter-grades)
+- [Weekly Assignments](#weekly-assignments)
+  - [Due Tuesday, 7PM EST: Reading](#due-tuesday-7pm-est-reading)
+  - [Due Friday, 12PM EST: Written assignment](#due-friday-12pm-est-written-assignment)
+  - [Grading](#grading-1)
+  - [Late work](#late-work)
+- [Discussion leading](#discussion-leading)
+- [Final project](#final-project)
+- [Mason policies](#mason-policies)
+  - [Honor code](#honor-code)
   - [Title IX](#title-ix)
   - [Privacy](#privacy)
 
@@ -36,9 +38,19 @@ order: 4
 
 ## Inclusivity in Learning
 
-Your success in this class is important to me. We will all need accommodations because we all learn differently. If there are aspects of this course that prevent you from learning or exclude you, please let me know as soon as possible. Together we’ll develop strategies to meet both your needs and the requirements of the course.
+Your success in this class is important to me. We will all need accommodations because we all learn differently. If there are aspects of this course that prevent you from learning or exclude you, please let me know as soon as possible. Together we'll develop strategies to meet both your needs and the requirements of the course.
 
-I encourage you to visit Disability Services to determine how you could improve your learning as well. If you need official accommodations, you have a right to have these met. If you have a documented learning disability or other condition that may affect academic performance you should: 1) make sure this documentation is on file with Disability Services (SUB I, Rm. 4205; 993-2474; [http://ds.gmu.edu](http://ds.gmu.edu/)) to determine the accommodations you need; and 2) talk with me to discuss your accommodation needs.
+I encourage you to visit Disability Services to determine how you could improve your learning as well. If you need official accommodations, you have a right to have these met. If you have a documented learning disability or other condition that may affect academic performance you should: 1) make sure this documentation is on file with Disability Services (SUB I, Rm. 4205; 993-2474; http://ds.gmu.edu) to determine the accommodations you need; and 2) talk with me to discuss your accommodation needs.
+
+### Content Warning
+
+This class will discuss a lot of popular music. Popular music often involves themes that can be offensive and/or upsetting to various groups of people---violence, sexism, racism, explicit language, overt sexuality, transphobia, fatphobia, etc. I recommend you be prepared to encounter these subjects at any point in the course content, as it would be difficult for me to promise to warn you each time something arises.
+
+It can be instructive to feel uncomfortable in your learning to some degree, but at the same time, you can't learn if you don't feel safe. 
+
+If you have a particular concern along these lines, please let me know so we can work together on how best to deal with this. 
+
+Anyone should feel free to take a break from class at any point, and especially if you are feeling distressed to the point that you cannot learn.
 
 ### Community Values
 
@@ -76,169 +88,135 @@ I am committed to the practice of separating the point of view or statement with
 
 While I will do my best to show up for and with other, I understand that there may be moments of disharmony. I am committed to self-reflection and concern for others and being an instrument of positive change. When moments of discord, dissent, or disagreement happen, I am committed to doing the individual internal work for the co-creation of peace.
 
-Instructor Information
-----------------------
+## Instructor Info
 
 **Name:** Dr. Lavengood (she/her), pronounced “LAY-ven-good”  
 **Email:** mlavengo@gmu.edu  
 **Office:** deLaski Performing Arts Building (PAB) A-421   
-**Communication:** I will answer emails within 24 hours. I am also happy to use Teams to chat with you one-on-one.
+**Communication:** I will answer emails within 24 hours. I am also happy to use Teams to chat with you in a channel or one-on-one.
 
 ### One-on-one appointments
 
-* You may drop in without an appointment during my **office hours**:
-  * Tuesdays, 1:00–2:30
-  * Wednesdays, 1:30–2:30
+* You may drop in without an appointment during my **office hours**, which are Tuesdays/Thursdays, 11:00–1:00.
 * If you like, [you can book time with me](https://meganlavengood.com/office-hours) to let me know that you'll be coming.
 * If you want to meet virtually instead of in-person, please [book in advance](https://meganlavengood.com/office-hours) so I know to be online.
 * If you are not available during my office hours, email me to schedule a special appointment time.
 
-### Tutoring
-
-If you need extra help, [download this semester's tutor information](https://gmuedu-my.sharepoint.com/:b:/g/personal/mlavengo_gmu_edu/ETeNXHPppU5Amf8-NacWvLsBeYbwhi4SUqET2FEiHlYHiw) and reach out to one of the tutors I have designated for this course.
-
-Course Information
-------------------
+## Course Information
 
 ### Meetings
 
-There are two back-to-back sections, both of which meet on Tuesdays/Thursdays in MTB 2018:
+-   **Time:** Tuesday evenings, 7:20–10 PM
+-   **Location:** Online via Teams
 
-* 9:00–10:15 AM
-* 10:30–11:45 AM
+### Goals
 
-If you have to miss class, you are welcome to attend the other class if that time works better for you. (But please regularly attend the class you're registered for!)
+1.  Familiarization with the techniques of analysis of timbre that music theorists commonly use
+2.  Introduction to academic music theory literature on timbre
+3.  Development of several crucial skills for the professional musician:
+    -   analysis skills through your assignments
+    -   writing skills through your weekly responses
+    -   presentation skills through your in-class presentations
+4.  Exposure to new types of music from myself and your peers
 
-### Learning Objectives
+### Organization and Modality
 
-* Students will label and recognize musical elements using set theory terminology, topic theory, leitmotivic analysis, and other 20th-/21st-century compositional approaches.
-* Students will articulate the impact of analytical interpretations on performance practice.
-* Students will compose music using specific music-theoretical concepts.
+-   This course is run as a discussion-based seminar. There will not be substantial lecturing from me. Instead, you will be expected to do the readings and contribute to a lively discussion in our meetings.
+-   Microsoft Teams will be used for most functions of the class, including meetings, file sharing, grading, and so on.
 
-### Course Materials
+### Recommended Prerequisite
 
-* **You won’t have to pay for any texts for this course!** 
-* Our textbook is [*Open Music Theory*](https://viva.pressbooks.pub/openmusictheory/), which is free. 
-* You will also need to reference some [extra "chapters" on music and media](/mm-lessons) outside the OMT book, which are on this website.
+MUSI 611
 
-#### Required 
-  
-  * Internet access for [_Open Music Theory_](https://viva.pressbooks.pub/openmusictheory/), Blackboard, etc.
-  * A three-ring binder for homework packets
-  * Staff paper, pens, pencils, etc. 
-  * [MuseScore](https://musescore.org/en) or another notation program like Dorico, Sibelius, or Finale (I do not recommend NoteFlight or Flat). I still find MuseScore 4 quite buggy, and I personally use [MuseScore 3](https://musescore.org/en/3.6.2) instead.
+## Course Materials
 
+There is no required text. Materials will be accessible via the library or in our readings folder.
 
-#### Recommended
-*  An app for making black-and-white .pdf scans from your phone.
-   *  I recommend [ABBYY FineScanner](http://www.finescanner.com/en/), which has a free version suitable for our purposes. 
-   *  I have also used [CamScanner](https://www.camscanner.com/). 
-   *  Most phones have them built in natively, too.
-   *  [Scanning Tutorials available here](https://meganlavengood.com/how-to-scan/).
-*   [Spotify](https://viva.pressbooks.pub/openmusictheory/front-matter/statement-on-spotify-usage/) is also useful for accessing worksheet playlists.
+Recommended (not required):
 
-Smartphones, tablets, and computers are welcome in the classroom since you need them to access the textbook.
+-   Teams (app)
+-   Spotify (app)
+-   An app for making black-and-white .pdf scans from your phone. I recommend [ABBYY FineScanner](http://www.finescanner.com/en), which has a free version suitable for our purposes. I have also used CamScanner.
 
-Grading
--------
+## Grading
 
-**Your grade in this course will be based solely on three [composition projects](#composition-projects) that correspond to the three main units in our course.** Compositions get progressively more involved, so each is worth progressively more than the last, as follows: 
+### Weighting
 
-1. [Set theory](https://viva.pressbooks.pub/openmusictheory/chapter/set-class-and-prime-form/#assignments): 20 points
-2. [Debussy-style](https://gmuedu-my.sharepoint.com/:f:/g/personal/mlavengo_gmu_edu/Ej6qhOulVg1IszRvygbKKiABl2k72jJo9pBraUV4vLtewQ?e=lL7nX8): 30 points
-3. [Music and Media](/compositions/final): 50 points
+-   **20% – In-class participation.** Because participation means different things to different people, participation will be self-evaluated at the end of the term. You will be asked to provide the grade you think you deserve and a brief explanation. 
+-   **20% – Weekly assignments**. These are also graded pass/fail. 
+-   **10% – Discussion leading.**
+-   **50% – Final project (15% presentation, 35% paper).** Your final project will be an analysis of a piece of your choosing using one or more of the methodologies from our readings. More information will be provided.
 
-Letter grades are given as follows:
+### Letter grades
 
 | Percentage/Points | Letter Grade |
-| --- | --- |
-| 93–100% | A |
-| 90–92% | A– | 
-| 87–89% | B+ | 
-| 83–86% | B |
-| 80–82% | B– |
-| 77–79% | C+ | 
-| 73–76% | C |
-| 70–72% | C– |
-| 60–69% | D |
-| 0–59% | F |
+| ----------------- | ------------ |
+| 93–100%           | A            |
+| 90–92%            | A–           |
+| 87–89%            | B+           |
+| 83–86%            | B            |
+| 80–82%            | B–           |
+| 77–79%            | C+           |
+| 73–76%            | C            |
+| 70–72%            | C–           |
 
-Attendance
-----------
+## Weekly Assignments
 
-I have no attendance policy. However, studies show that attendance directly correlates to grades. You will be best served by attending class regularly. 
+### Due Tuesday, 7PM EST: Reading
 
-**Please do not come to class if you feel at all sick or have been exposed to someone with COVID.** Don’t hesitate to reach out to me to figure out the best way for you to keep up with class while you are gone, and/or send a message on Teams to connect with other students for a copy of their class notes.
+Each week, you will be assigned one or two readings to complete before our synchronous meetings on Tuesday evenings. This will be the basis of our in-class discussion. 
 
-I am unable to offer virtual access to the class. If you want to keep up with coursework, you should do the readings and homework as indicated on the [course website](../).
+### Due Friday, 12PM EST: Written assignment
 
-Assignments
------------
+After our Tuesday discussion, you will have some type of written assignment to submit to me. This may be a simple listening journal, a summary of a reading, an analysis of a piece, a transcription, or some other kind of activity. You'll submit this by uploading it to your folder in the **General **channel of teams: **General > Files > homework submit > lastname.**
 
-### Digital submission of assignments: how to scan
+### Grading
 
-I am very fussy about scanned documents. Whenever you are sending me a scan, please send it in **.pdf format, all combined into a single .pdf, in black-and-white** (not color or grayscale). I have [tutorials on how to create scans](https://meganlavengood.com/how-to-scan/)—it’s simple and a good skill to learn. 
+These assignments are graded pass/fail. If you do the assignments on time and do a good job (or at least try to!), you will get a "pass." 
 
-### Daily Homework (not for a grade)
+### Late work
 
-*   You will have homework daily. 
-*   Homework is assigned via the [course website](../). 
-*   Homework is **not required and does not contribute to your grade.** Instead the homework is a way for you to check your understanding of a topic. 
-*   If you want feedback on your homework, you may turn it in for me to look over.
-*   You can email me homework if you won’t be in class (not projects, though—please always submit those on Blackboard).
+Your readings must be done on time in order for the class to work. However, I am somewhat flexible on the written assignments. If you need to submit late, please let me know (preferably in advance) so I know what to expect from you.
 
-### Composition projects
+## Discussion leading
 
-*   **About the projects:** Three model compositions are used to demonstrate your understanding of the theory concepts we learn in this class. [View project instructions.](/compositions)
-*   **Prep work:** Projects have preparatory assignments that are designed to help you succeed in your graded submission. These assignments are especially important to complete, even though they are still not counted toward your final grade.
-*   **Submitting, revising, and earning a grade:** Each project will be graded and returned; next, you are given the option to revise or expand as directed and submit a second version. The two grades are averaged for your total grade. All revisions are given a “best by” date, one week after the original due date. If you wait longer than this to submit, that’s okay, but I might not grade it promptly.
-*   **Late work:** If you need to submit a project late, discuss this with me, ideally before the due date. Be aware that I may not be able to give feedback for revisions in a timely manner if you submit late, especially if we didn’t discuss in advance.
-*   **Composition creativity and following instructions (or not):** I give a lot of restrictions on composition assignments because these are meant to test your ability to apply theory concepts, rather than to test your creativity. If you are excited to compose and want to do things more in your own way instead, that’s great and I look forward to hearing it! _But I need you to still fulfill the requirements of the assignment._ So if you choose to deliberately do something other than what I’ve asked you to do, submit additional commentary in which you self-evaluate against the grading rubric. Explain how you have achieved each of the objectives of the assignment.
+Students will sign up for one reading for which they will lead discussion. Most classes have two readings, which means that there may be two discussion leaders per class.
 
-Course Overview
----------------
+A discussion leader should:
 
-### Brief Calendar
+-   Clearly and concisely summarize the main argument of the text, to begin discussion. **This should take up no more than five minutes of time.** Everyone should have done the reading, so this is a *reminder* of the reading, not a full explanation. Try to identify:
+    -   Thesis statement
+    -   Repertoire discussed (artists, songs, albums, genres, etc.)
+    -   Analytical focus (harmony? form? culture? rhythm? etc.)
+    -   Connections to other readings we've done
+    -   A favorite sentence/paragraph and why you liked it
+    -   Important conclusions
+-   Bring in at least one additional song beyond those discussed in the reading, and apply the ideas in the text to the example
+-   Have a few discussion questions prepared
+-   Be ready to answer any clarification questions about terms introduced in the text (but Dr. Lavengood will help too) 
+-   Interact with the guest expert (if there is one in attendance)
 
-The following course outline is a general overview of how I anticipate the class will progress. For a detailed list of topics and assignments, see the [course website](../).
+If you do each of these things satisfactorily, you will get an A.
 
-| Weeks | Unit | [Composition Projects](/compositions) |
-| --- | --- | --- |
-| 1–4 | Atonality | Set Theory composition project |
-| 5–9 | Triadic Post-Tonality | Debussy-style composition project | 
-| 10–15 | Music and Media | Final project |
+## Final project
 
-### Important Dates
+In the final project, you will analyze a piece of your own choosing, demonstrating your understanding of techniques learned in class.
 
-* Tue, Sep 12: [Set class composition project due](https://viva.pressbooks.pub/openmusictheory/chapter/set-class-and-prime-form/#assignments)
-* Oct 10: No class (conversion day; Monday classes meet)
-* Tue, Oct 10: [Debussy-style composition project due](https://gmuedu-my.sharepoint.com/:f:/g/personal/mlavengo_gmu_edu/Ej6qhOulVg1IszRvygbKKiABl2k72jJo9pBraUV4vLtewQ?e=lL7nX8)
-* Thu, Nov 23: Thanksgiving
-* Thu, Nov 30 (last class): Song performances
-* Thu, Dec 7: [Final project due](/compositions/final)
-* Dec 12: **Hard deadline** for submitting any coursework
+The final project has two components: a video and a final paper.
 
-Mason Policies
---------------
+Details on the content of the project will be posted later. 
 
-### Honor Code
+## Mason policies
 
-Mason is an honor code university. [Read the honor code.](http://oai.gmu.edu/mason-honor-code/)
+### Honor code
 
-### ChatGPT and other AI tools
-
-Please be thoughtful if you choose to use AI tools. Basically, it's okay with me if you use AI to generate anything that isn't evaluated in a rubric (e.g., lyrics for a song, character development in the media project), as those things are outside the learning objectives of the course. 
-
-But I **do not** want you to use AI in your analytical writing (beyond things like grammar checking). AI tools cannot perform music analysis and the results will not be satisfactory anyway. 
-
-If you are unsure whether a use of AI is okay, you can always ask me directly.
-
-If you use AI as part of your projects in any capacity, explain how you used it in your analysis. Failure to do so constitutes a violation of academic integrity.
+Mason is an honor code university. Read the honor code here: <http://oai.gmu.edu/mason-honor-code/>
 
 ### Title IX
 
-As a faculty member and designated “Responsible Employee,” I am required to report all disclosures of sexual assault, interpersonal violence, and stalking to Mason’s Title IX Coordinator per university policy 1412. If you wish to speak with someone confidentially, please contact the Student Support and Advocacy Center (703-380-1434), Counseling and Psychological Services (703-993-2380), Student Health Services, or Mason’s Title IX Coordinator (703-993-8730; cde@gmu.edu). 
+As a faculty member and designated "Responsible Employee," I am required to report all disclosures of sexual assault, interpersonal violence, and stalking to Mason's Title IX Coordinator per university policy 1412. If you wish to speak with someone confidentially, please contact the Student Support and Advocacy Center (703-380-1434), Counseling and Psychological Services (703-993-2380), Student Health Services, or Mason's Title IX Coordinator (703-993-8730; cde@gmu.edu).
 
 ### Privacy
 
-Students must use their MasonLive email account to receive important University information, including communications related to this class. I will not respond to messages sent from or send messages to a non-Mason email address.
+-   **Email: **Students must use their Mason email account to receive important University information, including communications related to this class. I will not respond to messages sent from or send messages to a non-Mason email address.
+-   **Video recordings: **Our synchronous meetings in this class may be recorded. Any student may initiate recording. Recordings will be stored on Teams and will only be accessible to students taking this course during this semester.
