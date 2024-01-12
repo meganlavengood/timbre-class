@@ -2,6 +2,7 @@
 layout: page
 title: Syllabus
 permalink: /syllabus/
+menu: true
 toc: false
 order: 4
 ---

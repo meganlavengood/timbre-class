@@ -85,9 +85,9 @@ code {
 	background-color: #f2f2f2;
 }
 
-.class-title, .site-title, .site-nav {
+.class-title, .site-title, .site-nav, h1 {
 	font-family: 'Mallanna', sans-serif;
-		text-transform: uppercase;
+	text-transform: uppercase;
 }
 
 .site-title {
