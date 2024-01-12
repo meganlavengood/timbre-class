@@ -24,6 +24,7 @@ email: mlavengo@gmu.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Course website for MUSI 710. Spring 2024.
 # baseurl: "/musi216" # the subpath of your site, e.g. /blog
+domain: timbreclass.meganlavengood.com
 url: "https://meganlavengood.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  meganlavengood
 
