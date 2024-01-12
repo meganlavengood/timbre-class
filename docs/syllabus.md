@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Syllabus
-permalink: /syllabus/
+permalink: /2024/syllabus/
 menu: true
 toc: false
 order: 4
