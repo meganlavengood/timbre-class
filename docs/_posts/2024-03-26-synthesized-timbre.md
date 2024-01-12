@@ -5,18 +5,30 @@ title-prefix: "Weeks 11–13"
 date:   2024-03-26 10:10:11 -0500
 ---
 
-## Homework due
+We'll close the class by studying my area of expertise of more closely: synthesized timbres! 
 
-[Fill out the getting-to-know-you form](https://forms.office.com/Pages/ResponsePage.aspx?id=VXKFnlffR0ygwAVGRgOAy-R6DEGoI95Pu0sh7qW5mvpUMDk3Vk1aM0UwTjAxM0dLVEYzMzROR0lVMS4u)
+This topic is here also because I am exceptionally busy these few weeks, between Holy Week and extra performances with my church job, and a "mini-residency" at Utah State University. My communication may be slower this week.
 
-## Class topic
+-------
 
-[Chord Symbols](https://viva.pressbooks.pub/openmusictheory/chapter/chord-symbols/)
+{{site.week11}}
 
-## Homework assigned
+{{site.reading11}}
 
-[Chord symbols basics worksheet](https://viva.pressbooks.pub/openmusictheory/chapter/chord-symbols/#assignments)
+{{site.homework11}}
 
-## Notes
+-------
 
-You will need to do a couple video projects with partners soon. Find a partner now!
+{{site.week12}}
+
+{{site.reading12}}
+
+{{site.homework12}}
+
+-------
+
+{{site.week13}}
+
+{{site.reading13}}
+
+{{site.homework13}}

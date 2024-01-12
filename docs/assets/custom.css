@@ -42,14 +42,7 @@ html {
 /*
 *
 * links*/
-a.site-title,
-a.site-title:visited {
-	font-weight: 900;
-	color: var(--text);
-}
-header a {
-	/* color: var(--text); */
-}
+
 main a,
 main a:visited {
 	color: var(--accent);
@@ -64,11 +57,6 @@ a:visited {
 	color: inherit;
 }
 
-.footer-col-wrapper a {
-font-size: 15px;
-color: var(--text);
-}
-
 /*
 *
 * headings */
@@ -78,11 +66,6 @@ h1 {
 
 h2 {
 	margin-top: 1.5em;
-}
-
-pre,
-code {
-	background-color: #f2f2f2;
 }
 
 .class-title, .site-title, .site-nav, h1 {
@@ -115,6 +98,22 @@ a.site-title:hover {
 li > ol {
 	list-style-type: lower-alpha;
 }
+
+
+/*
+*
+* code styling */
+pre, code {
+font-family: "Menlo", "Inconsolata", "Consolas", "Roboto Mono", "Ubuntu Mono", "Liberation Mono", "Courier New", monospace;
+font-size: 0.9375em;
+border: 1px solid #404040;
+border-radius: 3px;
+background-color: #212121;
+}
+code {
+padding: 1px 5px;
+}
+
 /*
 *
 * header styling */
@@ -122,9 +121,25 @@ li > ol {
 .site-header{
 border: 0;
 }
+
+a.site-title,
+a.site-title:visited {
+	font-weight: 900;
+	color: var(--text);
+}
+header a {
+	/* color: var(--text); */
+}
+
 /*
 *
 * nav menu */
+
+.site-nav {
+	border-color: var(--onyx);
+	box-shadow: var(--preset-box-shadow);
+}
+
 .site-nav div {
 	/* font-size: 0.9rem; */
 	font-weight: 300;
@@ -136,7 +151,7 @@ border: 0;
 
 .header-wrapper {
 	max-width: 80%;
-	margin: auto;
+	margin: 1em auto;
 }
 
 .header-wrapper .favicon {
@@ -153,12 +168,13 @@ border: 0;
 		max-width: 75% !important;
 	}
 	.site-title {
-		line-height: normal;
+		line-height: 1;
 		margin-left:1rem;
+		white-space: nowrap;
 	}
 }
 
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 768px) {
 	.header-wrapper .favicon {
 		display:none;
 	}
@@ -172,12 +188,21 @@ border: 0;
 	border: 0;
 }
 
+.site-footer * {
+	font-size: small;
+}
+
 .footer-col-wrapper {
 	margin-left: 0;
 }
 .footer-col-wrapper .flex-row {
 	margin-bottom: 1em;
 }
+
+.footer-col-wrapper a {
+color: var(--text);
+}
+
 /* @media screen and (min-width: 768px) {
 	.footer-col-wrapper div.col:nth-child(1) {
 		text-align: left;
@@ -330,6 +355,11 @@ a.button-fill:hover {
 	flex-wrap: nowrap;
 }
 
+.sticky {
+	position: sticky;
+	top: 70px;
+}
+
 @media screen and (max-width: 768px) {
 	.flex-row.responsive {
 		flex-direction: column;
@@ -351,15 +381,27 @@ a.button-fill:hover {
 *
 * TOC */
 
-#table-of-contents + ul li a {
+/* .col .toc {
+	width: 40vw;
+}
+
+#toc li {
+	font-size: .9em;
+}
+
+.toc-sublist {
+	margin-top: 6px;
+}
+
+#toc li a {
 	color: var(--text);
 	text-decoration: none;
 }
-#table-of-contents + ul li a:hover {
+#toc li a:hover {
 	text-decoration: underline;
 	text-decoration-color: var(--accent);
 	text-decoration-style: dotted;
-}
+} */
 
 /*
 *

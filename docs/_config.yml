@@ -23,6 +23,7 @@ author: Megan Lavengood
 email: mlavengo@gmu.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Course website for MUSI 710. Spring 2024.
+year: 2024
 # baseurl: "/musi216" # the subpath of your site, e.g. /blog
 domain: timbreclass.meganlavengood.com
 url: "https://meganlavengood.github.io" # the base hostname & protocol for your site, e.g. http://example.com
@@ -69,3 +70,65 @@ toc:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+## Permalink structure (does not affect pages)
+
+permalink: /:year/:title:output_ext
+
+
+## Class/semester variables
+
+week1: "## Week 1 (Jan 15)"
+week2: "## Week 2 (Jan 22)"
+week3: "## Week 3 (Jan 29)"
+week4: "## Week 4 (Feb 5)"
+week5: "## Week 5 (Feb 12)"
+week6: "## Week 6 (Feb 19)"
+week7: "## Week 7 (Feb 26)"
+week8: "## Week 8 (Mar 4)"
+week9: "## Week 9 (Mar 11)"
+week10: "## Week 10 (Mar 18)"
+week11: "## Week 11 (Mar 25)"
+week12: "## Week 12 (Apr 1)"
+week13: "## Week 13 (Apr 8)"
+week14: "## Week 14 (Apr 15)"
+week15: "## Week 15 (Apr 22)"
+
+reading1: "### Reading due Tue, Jan 16\n\nSiedenberg and McAdams 2017"
+reading2: "### Reading due Tue, Jan 23\n\nFales 2002"
+reading3: "### Reading due Tue, Jan 30\n\nEidsheim and Whelden 2018"
+reading4: "### Reading due Tue, Feb 6\n\nDolan ch 3"
+reading5: "### Reading due Tue, Feb 13\n\nRehding 2018"
+reading6: "### Reading due Tue, Feb 20\n\nMcAdams et al 2022"
+reading7: "### Reading due Tue, Feb 27\n\nAnalysis symposium"
+reading8: "### Reading due Tue, Mar 5\n\nSPRING BREAK"
+reading9: "### Reading due Tue, Mar 12\n\nDuguay 2022"
+reading10: "### Reading due Tue, Mar 19\n\nHardman "
+reading11: "### Reading due Tue, Mar 26\n\nLavengood 2020"
+reading12: "### Reading due Tue, Apr 2\n\nLavengood 2019"
+reading13: "### Reading due Tue, Apr 9\n\nDe Souza 2018"
+reading14: "### Reading due Tue, Apr 16\n\nFinal project discussion"
+reading15: "### Reading due Tue, Apr 23\n\nVideos (async class)"
+
+homework1: "### Assignment due Fri, Jan 19"
+homework2: "### Assignment due Fri, Jan 26"
+homework3: "### Assignment due Fri, Feb 2"
+homework4: "### Assignment due Fri, Feb 9"
+homework5: "### Assignment due Fri, Feb 16"
+homework6: "### Assignment due Fri, Feb 23"
+homework7: "### Assignment due Fri, Mar 1"
+homework8: "### Assignment due Fri, Mar 8"
+homework9: "### Assignment due Fri, Mar 15"
+homework10: "### Assignment due Fri, Mar 22"
+homework11: "### Assignment due Fri, Mar 29"
+homework12: "### Assignment due Fri, Apr 5"
+homework13: "### Assignment due Fri, Apr 12"
+homework14: "### Assignment due Fri, Apr 19"
+homework15: "### Assignment due Fri, Apr 26"
+
+final-worksheet: "Tue, Apr 16"
+final-video: "Fri, Apr 19"
+final-peer: "Tue, Apr 23"
+final-early: "Mon, Apr 29"
+final-late: "Mon, May 6"
+final-range: "Apr 29–May 6"

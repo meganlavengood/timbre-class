@@ -5,18 +5,20 @@ title-prefix: "Weeks 9–10"
 date:   2024-03-12 10:10:11 -0500
 ---
 
-## Homework due
+The study of voice and vocal timbre has flourished immensely in the past couple of years. 
 
-[Fill out the getting-to-know-you form](https://forms.office.com/Pages/ResponsePage.aspx?id=VXKFnlffR0ygwAVGRgOAy-R6DEGoI95Pu0sh7qW5mvpUMDk3Vk1aM0UwTjAxM0dLVEYzMzROR0lVMS4u)
+-------
 
-## Class topic
+{{site.week9}}
 
-[Chord Symbols](https://viva.pressbooks.pub/openmusictheory/chapter/chord-symbols/)
+{{site.reading9}}
 
-## Homework assigned
+{{site.homework9}}
 
-[Chord symbols basics worksheet](https://viva.pressbooks.pub/openmusictheory/chapter/chord-symbols/#assignments)
+-------
 
-## Notes
+{{site.week10}}
 
-You will need to do a couple video projects with partners soon. Find a partner now!
+{{site.reading10}}
+
+{{site.homework10}}

@@ -25,7 +25,7 @@ order: 4
   - [Letter grades](#letter-grades)
 - [Weekly Assignments](#weekly-assignments)
   - [Due Tuesday, 7PM EST: Reading](#due-tuesday-7pm-est-reading)
-  - [Due Friday, 12PM EST: Written assignment](#due-friday-12pm-est-written-assignment)
+  - [Due Friday end of day: Written assignment](#due-friday-end-of-day-written-assignment)
   - [Grading](#grading-1)
   - [Late work](#late-work)
 - [Discussion leading](#discussion-leading)
@@ -167,7 +167,7 @@ Recommended (not required):
 
 Each week, you will be assigned one or two readings to complete before our synchronous meetings on Tuesday evenings. This will be the basis of our in-class discussion. 
 
-### Due Friday, 12PM EST: Written assignment
+### Due Friday end of day: Written assignment
 
 After our Tuesday discussion, you will have some type of written assignment to submit to me. This may be a simple listening journal, a summary of a reading, an analysis of a piece, a transcription, or some other kind of activity. You'll submit this by uploading it to your folder in the **General **channel of teams: **General > Files > homework submit > lastname.**
 
@@ -205,7 +205,7 @@ In the final project, you will analyze a piece of your own choosing, demonstrati
 
 The final project has two components: a video and a final paper.
 
-Details on the content of the project will be posted later. 
+[Read more details about the final project](../{{site.year}}/final-project). 
 
 ## Mason policies
 

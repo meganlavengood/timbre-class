@@ -5,18 +5,34 @@ title-prefix: "Weeks 4–7"
 date:   2024-01-11 10:10:11 -0500
 ---
 
-## Homework due
+Though technically distinct from timbre, orchestration is a closely related field of concern; most timbre scholars also study orchestration. These readings are some of the best for understanding orchestral music.
 
-[Fill out the getting-to-know-you form](https://forms.office.com/Pages/ResponsePage.aspx?id=VXKFnlffR0ygwAVGRgOAy-R6DEGoI95Pu0sh7qW5mvpUMDk3Vk1aM0UwTjAxM0dLVEYzMzROR0lVMS4u)
+-------
 
-## Class topic
+{{site.week4}}
 
-[Chord Symbols](https://viva.pressbooks.pub/openmusictheory/chapter/chord-symbols/)
+{{site.reading4}}
 
-## Homework assigned
+{{site.homework4}}
 
-[Chord symbols basics worksheet](https://viva.pressbooks.pub/openmusictheory/chapter/chord-symbols/#assignments)
+-------
 
-## Notes
+{{site.week5}}
 
-You will need to do a couple video projects with partners soon. Find a partner now!
+{{site.reading5}}
+
+{{site.homework5}}
+
+-------
+
+{{site.week6}}
+
+{{site.reading6}}
+
+{{site.homework6}}
+
+-------
+
+{{site.week7}}: Analysis Symposium
+
+This week, we'll have no new readings. Instead, everyone will collaborate on an analysis project.
