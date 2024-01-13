@@ -26,7 +26,7 @@ Export your sounds as .mp3 files and name the files `lastname-descriptor.mp3`. F
 
 Write up a short description of how you created the sounds. Save that description as a PDF and name the file `lastname.pdf`.
 
-**Upload all three .mp3 files and your .pdf** to the folder titled `week 2 homework submit`, in Files on Teams.
+**Upload all three .mp3 files and your .pdf** to your homework submit folder on Teams.
 
 Some resources that might be helpful: 
 
@@ -45,9 +45,11 @@ Some resources that might be helpful:
 
 {{site.homework2}}
 
-This builds on last week's activity. Listen to the sounds that your partner made for your descriptors.
+This builds on last week's activity. 
 
-Your homework this week is to write a response (which your partner will be able to view). For each sound sample, answer the following questions:
+I will copy the samples your partner recorded to a folder called `week 3 hw samples`. Listen to the sounds that your partner made for your descriptors.
+
+Your homework this week is to write a response. For each sound sample, answer the following questions:
 
 1. Do the sounds your partner created match what you imagined when you gave them the descriptor?
 2. What are the acoustic features of your partner's souunds that correlate to the descriptor you gave?
@@ -57,7 +59,7 @@ Additionally, write a few sentences with your main takeaway on this activity.
 
 All of this will probably take around 500 words, I estimate.
 
-Save your response as a PDF and upload to the `week 3 homework submit` folder.
+Save your response as a PDF and upload your homework submit folder on Teams.
 
 -------
 
