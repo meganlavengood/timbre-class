@@ -12,9 +12,30 @@ Timbre is a multifaceted concept that is approached differently in different fie
 
 {{site.week1}}
 
-{{site.reading1}}
+On our first class, we'll do some housekeeping—going through the syllabus, getting you acquainted with Teams and the course website, and introducing ourselves.
+
+There won't be any reading due before class.
 
 {{site.homework1}}
+
+In class, you'll be assigned a partner and you will move into a breakout room with your partner. You and your partner will each give the other three timbral descriptors. Write down the descriptors you agreed upon. We will record them in the class notebook.
+
+After class, create and record a sound for each descriptor your partner gave you. The sound you create should be emblematic of that descriptor. You can use any method to create the sound—record yourself playing your instrument, synthesize a new sound, manipulate an existing sound, etc. (This is a good time to remember that assignments are just graded on completion, so you don't need to worry about correctness.)
+
+Export your sounds as .mp3 files and name the files `lastname-descriptor.mp3`. For example, if I recorded a sound for the descriptor "smooshy," I would name my file `lavengood-smooshy.mp3`. 
+
+Write up a short description of how you created the sounds. Save that description as a PDF and name the file `lastname.pdf`.
+
+**Upload all three .mp3 files and your .pdf** to the folder titled `week 2 homework submit`, in Files on Teams.
+
+Some resources that might be helpful: 
+
+* [Audacity](https://www.audacityteam.org), a free app for recording and editing audio
+* [Websynths Microtonal](https://www.websynths.com/microtonal/), a web-based synthesizer
+* [How to record computer audio](https://support.audacityteam.org/basics/recording-desktop-audio)
+  * Apple computers with Silicon chips can use [LadioCast](https://apps.apple.com/us/app/ladiocast/id411213048?mt=12) instead of Soundflower 
+
+
 
 -------
 
@@ -24,6 +45,20 @@ Timbre is a multifaceted concept that is approached differently in different fie
 
 {{site.homework2}}
 
+This builds on last week's activity. Listen to the sounds that your partner made for your descriptors.
+
+Your homework this week is to write a response (which your partner will be able to view). For each sound sample, answer the following questions:
+
+1. Do the sounds your partner created match what you imagined when you gave them the descriptor?
+2. What are the acoustic features of your partner's souunds that correlate to the descriptor you gave?
+3. Come up with one additional term that could also describe the sample.
+
+Additionally, write a few sentences with your main takeaway on this activity. 
+
+All of this will probably take around 500 words, I estimate.
+
+Save your response as a PDF and upload to the `week 3 homework submit` folder.
+
 -------
 
 {{site.week3}}
@@ -31,3 +66,10 @@ Timbre is a multifaceted concept that is approached differently in different fie
 {{site.reading3}}
 
 {{site.homework3}}
+
+Write a reflection essay to this unit's readings (that is, this week's readings as well as last week's). (Note: this should be a personal reflection or response, not a summary of the readings. There is no right or wrong answer. You could and should use first-person pronouns.) Some thoughts for you to consider:
+
+* Based on what we've read so far, what are the main problems in defining and analyzing timbre?
+* What aspects of timbre research are you most interested to learn more about? For exmaple, acoustic, perceptual, cultural, timbral details/microtimbre, essential instrumental timbres/macrotimbres, polyphonic timbre, something else…? Why does this interest you?
+* What are some places where authors seem to agree or disagree?
+* How has your perception of timbre changed based on these readings?

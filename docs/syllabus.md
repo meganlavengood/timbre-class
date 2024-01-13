@@ -28,7 +28,7 @@ order: 4
   - [Due Friday end of day: Written assignment](#due-friday-end-of-day-written-assignment)
   - [Grading](#grading-1)
   - [Late work](#late-work)
-- [Discussion leading](#discussion-leading)
+- [Discussion leading responsibilities](#discussion-leading-responsibilities)
 - [Final project](#final-project)
 - [Mason policies](#mason-policies)
   - [Honor code](#honor-code)
@@ -179,12 +179,13 @@ These assignments are graded pass/fail. If you do the assignments on time and do
 
 Your readings must be done on time in order for the class to work. However, I am somewhat flexible on the written assignments. If you need to submit late, please let me know (preferably in advance) so I know what to expect from you.
 
-## Discussion leading
+## Discussion leading responsibilities
 
 Students will sign up for one reading for which they will lead discussion. Most classes have two readings, which means that there may be two discussion leaders per class.
 
 A discussion leader should:
 
+-  Create a Spotify (ideal) or YouTube playlist of the music cited in the readings and post it to Teams by the Friday before class
 -   Clearly and concisely summarize the main argument of the text, to begin discussion. **This should take up no more than five minutes of time.** Everyone should have done the reading, so this is a *reminder* of the reading, not a full explanation. Try to identify:
     -   Thesis statement
     -   Repertoire discussed (artists, songs, albums, genres, etc.)
@@ -192,12 +193,10 @@ A discussion leader should:
     -   Connections to other readings we've done
     -   A favorite sentence/paragraph and why you liked it
     -   Important conclusions
--   Bring in at least one additional song beyond those discussed in the reading, and apply the ideas in the text to the example
 -   Have a few discussion questions prepared
--   Be ready to answer any clarification questions about terms introduced in the text (but Dr. Lavengood will help too) 
 -   Interact with the guest expert (if there is one in attendance)
 
-If you do each of these things satisfactorily, you will get an A.
+If you do each of these things satisfactorily, you will get an A. **Please note that you are not lecturing or presenting on the reading.** You are *leading discussion*, which means your primary goal is to get the class to discuss and participate.
 
 ## Final project
 
