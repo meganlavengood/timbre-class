@@ -1,27 +1,26 @@
-@import url('https://fonts.googleapis.com/css2?family=Mallanna&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Mallanna&display=swap");
 
 /* global styles */
 
 :root {
-	--preset-box-shadow: 2px 2px 5px #111111;
-	--accent: #049A8F;
-	--accent-dark: #02504A;
-	--accent-light: #06DBCD;
-	--footer-gray: #9B9B9B;
-	--light-gray: rgb(142, 138, 121, .2);
+	--preset-box-shadow: 2px 2px 2px #111111;
+	--accent: #049a8f;
+	--accent-dark: #02504a;
+	--accent-light: #06dbcd;
+	--footer-gray: #9b9b9b;
+	--light-gray: rgb(142, 138, 121, 0.2);
 	/* --accent-textbox: rgba(204, 206, 148, 0.6); */
-	--onyx: #3C3C3C;
+	--onyx: #3c3c3c;
 	/* --main-bg: #F9F7F1; */
 	/* --text: #1b2021; */
-	
 }
 
 hr {
-border: 0;
-height: 0;
-border-bottom: 3px solid var(--accent);
-width: 50%;
-margin: 3em auto;
+	border: 0;
+	height: 0;
+	border-bottom: 3px solid var(--accent);
+	width: 50%;
+	margin: 3em auto;
 }
 
 html {
@@ -33,10 +32,29 @@ html {
 	}
 }
 :target:before {
-    content: "";
-    display: block;
-    height: 100px;
-    margin: -100px 0 0;
+	content: "";
+	display: block;
+	height: 100px;
+	margin: -100px 0 0;
+}
+
+.site-header,
+.site-footer {
+	width: 100%;
+	height: 100%;
+	background-size: cover;
+	background-color: #111111;
+	background-position: bottom;
+	background-repeat: no-repeat;
+}
+
+.site-header {
+	background-image: url("header-waves.svg");
+	background-position: bottom;
+}
+.site-footer {
+	background-image: url("footer-waves2.svg");
+	background-position: top;
 }
 
 /*
@@ -68,8 +86,11 @@ h2 {
 	margin-top: 1.5em;
 }
 
-.class-title, .site-title, .site-nav, h1 {
-	font-family: 'Mallanna', sans-serif;
+.class-title,
+.site-title,
+.site-nav,
+h1 {
+	font-family: "Mallanna", sans-serif;
 	text-transform: uppercase;
 }
 
@@ -100,27 +121,28 @@ li > ol {
 	list-style-type: lower-alpha;
 }
 
-
 /*
 *
 * code styling */
-pre, code {
-font-family: "Menlo", "Inconsolata", "Consolas", "Roboto Mono", "Ubuntu Mono", "Liberation Mono", "Courier New", monospace;
-font-size: 0.9375em;
-border: 1px solid #404040;
-border-radius: 3px;
-background-color: #212121;
+pre,
+code {
+	font-family: "Menlo", "Inconsolata", "Consolas", "Roboto Mono",
+		"Ubuntu Mono", "Liberation Mono", "Courier New", monospace;
+	font-size: 0.9375em;
+	border: 1px solid #404040;
+	border-radius: 3px;
+	background-color: #212121;
 }
 code {
-padding: 1px 5px;
+	padding: 1px 5px;
 }
 
 /*
 *
 * header styling */
 
-.site-header{
-border: 0;
+.site-header {
+	border: 0;
 }
 
 a.site-title,
@@ -136,9 +158,11 @@ header a {
 *
 * nav menu */
 
-.site-nav {
-	border-color: var(--onyx);
-	box-shadow: var(--preset-box-shadow);
+@media screen and (max-width: 768px) {
+	.site-nav {
+		border: none;
+		box-shadow: var(--preset-box-shadow);
+	}
 }
 
 .site-nav div {
@@ -159,7 +183,6 @@ header a {
 	margin-right: 0.5rem;
 }
 
-
 .class-nav {
 	color: var(--footer-gray) !important;
 }
@@ -170,14 +193,14 @@ header a {
 	}
 	.site-title {
 		line-height: 1;
-		margin-left:1rem;
+		margin-left: 1rem;
 		white-space: nowrap;
 	}
 }
 
 @media screen and (max-width: 768px) {
 	.header-wrapper .favicon {
-		display:none;
+		display: none;
 	}
 }
 
@@ -201,7 +224,7 @@ header a {
 }
 
 .footer-col-wrapper a {
-color: var(--text);
+	color: var(--text);
 }
 
 /* @media screen and (min-width: 768px) {
@@ -226,14 +249,16 @@ color: var(--text);
 }
 
 /* tables */
-table, table th, table td {
+table,
+table th,
+table td {
 	border-style: solid hidden;
 }
 
 table th {
 	background-color: transparent;
 	border-top: hidden;
-	border-bottom: 2px solid var(--accent); 
+	border-bottom: 2px solid var(--accent);
 }
 
 /*
@@ -307,14 +332,18 @@ a.button-fill:hover {
 	overflow: hidden;
 }
 
-@media screen and (min-width: 768px) {
-	.post-nav a {
-		width: 30%;
-	}
+.post-nav a {
+	width: 40%;
+	margin: 1em 0;
 }
 
-.post-nav.responsive {
-	flex-direction: column-reverse;
+@media screen and (max-width: 768px) {
+	.post-nav.responsive {
+		flex-direction: column-reverse;
+	}
+	.post-nav a {
+		width: 80%;
+	}
 }
 
 /* flex row */
@@ -417,7 +446,6 @@ a.button-fill:hover {
 .textbox--key-takeaways .textbox__header {
 	background-color: var(--accent);
 	padding: 1em;
-	
 }
 
 .textbox--key-takeaways .textbox__title {
@@ -435,11 +463,11 @@ a.button-fill:hover {
 *
 * Media styling */
 
-iframe, img {
+iframe,
+img {
 	display: block;
 	margin: auto;
 }
-
 
 /*
 *
@@ -454,7 +482,6 @@ figcaption {
 figcaption i {
 	font-style: normal;
 }
-
 
 /*
 *
@@ -480,7 +507,6 @@ ol ol {
 ol ol li {
 	margin-bottom: 0;
 }
-
 
 /* smooth scroll anchor links */
 html {
