@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Mallanna&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Kumbh+Sans:ital,wght@0,200;0,400;0,800;1,200;1,400;1,800&display=swap');
 
 /* global styles */
 
@@ -26,6 +26,11 @@ hr {
 html {
 	scroll-behavior: smooth;
 }
+
+body {
+	font-family: "Nunito", Helvetica, sans-serif;
+}
+
 @media screen and (prefers-reduced-motion: reduce) {
 	html {
 		scroll-behavior: auto;
@@ -79,7 +84,7 @@ a:visited {
 *
 * headings */
 h1 {
-	font-weight: 700;
+	font-weight: 800;
 }
 
 h2 {
@@ -90,8 +95,12 @@ h2 {
 .site-title,
 .site-nav,
 h1 {
-	font-family: "Mallanna", sans-serif;
 	text-transform: uppercase;
+	letter-spacing: 2px;
+}
+
+h2, h3, h4, h5 {
+	font-weight: 800;
 }
 
 .site-title {
@@ -150,8 +159,8 @@ a.site-title:visited {
 	font-weight: 900;
 	color: var(--text);
 }
-header a {
-	/* color: var(--text); */
+.header-wrapper a {
+	text-shadow: 0px 0px 6px #111111;
 }
 
 /*
