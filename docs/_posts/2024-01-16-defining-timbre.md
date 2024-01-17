@@ -18,7 +18,9 @@ There won't be any reading due before class.
 
 {{site.homework1}}
 
-In class, you'll be assigned a partner and you will move into a breakout room with your partner. You and your partner will each give the other three timbral descriptors. Write down the descriptors you agreed upon. We will record them in the class notebook.
+Don't forget to indicate which readings you want to discussion lead! [View all the readings here](https://gmuedu.sharepoint.com/:x:/s/Spring-2024-AnalysisofTimbre-GRP/EUNNtGkTFTFKlo9MAytpNowBBm66Wu2g529Gr2Ozn3fY1g?e=jbId0z), and [submit your choices here](https://forms.office.com/Pages/ResponsePage.aspx?id=VXKFnlffR0ygwAVGRgOAy-R6DEGoI95Pu0sh7qW5mvpURERPVzFLM0lIRUtUWDhRMlBYRFo0VjMyTS4u).
+
+In class, you'll be assigned a partner and you will move into a breakout room with your partner. You and your partner will each give the other three timbral descriptors. Write down the descriptors you agreed upon. [We will record them in the class notebook](https://gmuedu.sharepoint.com/sites/Spring-2024-AnalysisofTimbre-GRP/_layouts/15/Doc.aspx?sourcedoc={5d1d3d40-6d56-4dd9-b350-4b1ed8695bf6}&action=edit&wd=target%28wk%201%20h.one%7Cff1cfed0-dd66-4c81-8c2e-d5bf303f8d2b%2FWeek%201%20hw%20timbre%20descriptors%7C3dac99f8-8bfc-4b32-93be-0f7c22fae312%2F%29&wdorigin=703).
 
 After class, create and record a sound for each descriptor your partner gave you. The sound you create should be emblematic of that descriptor. You can use any method to create the sound—record yourself playing your instrument, synthesize a new sound, manipulate an existing sound, etc. (This is a good time to remember that assignments are just graded on completion, so you don't need to worry about correctness.)
 
