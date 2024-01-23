@@ -31,4 +31,6 @@ This topic is here also because I am exceptionally busy these few weeks, between
 
 {{site.reading13}}
 
+Discussion leaders: {{site.discussion13}}
+
 {{site.homework13}}

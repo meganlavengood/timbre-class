@@ -13,6 +13,8 @@ The study of voice and vocal timbre has flourished immensely in the past couple 
 
 {{site.reading9}}
 
+Discussion leaders: {{site.discussion9}}
+
 {{site.homework9}}
 
 -------
@@ -20,5 +22,7 @@ The study of voice and vocal timbre has flourished immensely in the past couple 
 {{site.week10}}
 
 {{site.reading10}}
+
+Discussion leaders: {{site.discussion10}}
 
 {{site.homework10}}

@@ -69,6 +69,8 @@ Save your response as a PDF and upload your homework submit folder on Teams.
 
 {{site.reading3}}
 
+Discussion leaders: {{site.discussion3}}
+
 {{site.homework3}}
 
 Write a reflection essay to this unit's readings (that is, this week's readings as well as last week's). (Note: this should be a personal reflection or response, not a summary of the readings. There is no right or wrong answer. You could and should use first-person pronouns.) Some thoughts for you to consider:

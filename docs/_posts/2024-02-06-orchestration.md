@@ -13,6 +13,8 @@ Though technically distinct from timbre, orchestration is a closely related fiel
 
 {{site.reading4}}
 
+Discussion leaders: {{site.discussion4}}
+
 {{site.homework4}}
 
 In Files on Teams, go to the folder `Week 4 musicxml files`. There you will find several orchestral scores in MusicXML format. (I downloaded these from MuseScore and didn't have time to rigorously investigate each of them, so be aware that there may be weirdnesses/mistakes in these scores. Nevertheless, I think this homework will be instructive!)
@@ -30,6 +32,8 @@ Save the document (writing + image) as a PDF and upload to your homework submit 
 
 {{site.reading5}}
 
+Discussion leaders: {{site.discussion5}}
+
 {{site.homework5}}
 
 Write ~500 words in which you compare the results of Wallmark's and Reymore's studies. Where do they align? Where do they diverge? And how do these studies reflect your own musical experience?
@@ -39,6 +43,8 @@ Write ~500 words in which you compare the results of Wallmark's and Reymore's st
 {{site.week6}}
 
 {{site.reading6}}
+
+Discussion leader: {{site.discussion6}}
 
 Note that the ACTOR project has a [helpful summary of examples](https://timbreandorchestration.org/tor/modules/taxonomy/orchestral-grouping-effects/introduction) related to this article.
 
