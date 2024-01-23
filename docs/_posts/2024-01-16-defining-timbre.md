@@ -49,12 +49,12 @@ Some resources that might be helpful:
 
 This builds on last week's activity. 
 
-I will copy the samples your partner recorded to a folder called `week 3 hw samples`. Listen to the sounds that your partner made for your descriptors.
+I will copy the samples your partner recorded to a folder called `week 2 hw samples`. Listen to the sounds that your partner made for your descriptors.
 
 Your homework this week is to write a response. For each sound sample, answer the following questions:
 
 1. Do the sounds your partner created match what you imagined when you gave them the descriptor?
-2. What are the acoustic features of your partner's souunds that correlate to the descriptor you gave?
+2. What are the acoustic features of your partner's sounds that correlate to the descriptor you gave?
 3. Come up with one additional term that could also describe the sample.
 
 Additionally, write a few sentences with your main takeaway on this activity. 
@@ -74,6 +74,6 @@ Save your response as a PDF and upload your homework submit folder on Teams.
 Write a reflection essay to this unit's readings (that is, this week's readings as well as last week's). (Note: this should be a personal reflection or response, not a summary of the readings. There is no right or wrong answer. You could and should use first-person pronouns.) Some thoughts for you to consider:
 
 * Based on what we've read so far, what are the main problems in defining and analyzing timbre?
-* What aspects of timbre research are you most interested to learn more about? For exmaple, acoustic, perceptual, cultural, timbral details/microtimbre, essential instrumental timbres/macrotimbres, polyphonic timbre, something else…? Why does this interest you?
+* What aspects of timbre research are you most interested to learn more about? For example, acoustic, perceptual, cultural, timbral details/microtimbre, essential instrumental timbres/macrotimbres, polyphonic timbre, something else…? Why does this interest you?
 * What are some places where authors seem to agree or disagree?
 * How has your perception of timbre changed based on these readings?
