@@ -517,6 +517,15 @@ ol ol li {
 	margin-bottom: 0;
 }
 
+/* Callout box */
+
+.border-box {
+	border: 3px dotted var(--accent);
+	padding:1em;
+	margin: 1em 0;
+}
+
+
 /* smooth scroll anchor links */
 html {
 	scroll-behavior: smooth;

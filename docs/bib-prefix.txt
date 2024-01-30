@@ -1,0 +1,8 @@
+---
+layout: page
+title: Bibliography
+permalink: /2024/Bibliography/
+menu: true
+toc: false
+order: 12
+---
