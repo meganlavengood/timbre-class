@@ -73,7 +73,7 @@ Discussion leaders: {{site.discussion3}}
 
 {{site.homework3}}
 
-<div class="border-box"> <b>Note on submitting:</b> Please submit only PDF files unless I specifically request otherwise. Please begin your filename with the week number. For example, this week, your filename should be <code>3 [whatever]</code> (I actually don't care about the rest of the filename). Thanks.</div>
+<div class="border-box"> <p><b>Note on submitting (all weeks, not just this time)</b></p><ul><li>Please submit only PDF files unless I specifically request otherwise.</li><li>Please begin your filename with the week number. For example, this week, your filename should be <code>3 [whatever]</code> (I actually don't care about the rest of the filename).</li></ul></div>
 
 Write a reflection essay to this unit's readings (that is, this week's readings as well as last week's). (Note: this should be a personal reflection or response, not a summary of the readings. There is no right or wrong answer. You could and should use first-person pronouns.) Some thoughts for you to consider:
 
