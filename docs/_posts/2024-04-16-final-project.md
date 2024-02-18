@@ -2,9 +2,11 @@
 layout: post
 title:  "Final Project"
 date:   2024-04-16 10:10:11 -0500
+toc: false
+excerpt: "Your final project is an analysis of timbre/orchestration in a piece of your choosing. The purpose of the project is for you to apply the skills you’ve learned in class to something that you enjoy and want to share with the rest of the class."
+
 ---
 
-Your final project is an analysis of timbre/orchestration in a piece of your choosing. The purpose of the project is for you to apply the skills you’ve learned in class to something that you enjoy and want to share with the rest of the class.
 
 | Due date (end-of-day)                    | Assignment            |
 | ---------------------------------------- | --------------------- |
