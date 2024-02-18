@@ -3,9 +3,11 @@ layout: post
 title:  "Orchestration"
 title-prefix: "Weeks 4–7"
 date:   2024-01-11 10:10:11 -0500
-toc: true
-excerpt: "Though technically distinct from timbre, orchestration is a closely related field of concern; most timbre scholars also study orchestration. These readings are some of the best for understanding orchestral music."
 ---
+
+Though technically distinct from timbre, orchestration is a closely related field of concern; most timbre scholars also study orchestration. These readings are some of the best for understanding orchestral music.
+
+-------
 
 {{site.week4}}
 
@@ -65,7 +67,7 @@ You've each been assigned a group and put into a channel on Teams with your othe
 
 <div class="border-box">Note: This is much less structured than the analysis symposia I've run in Analytical Techniques (MUSI 611). I want to give you ideas but I don't have super-specific requirements or a grading rubric. Note that unlike in Analytical Techniques, this analysis symposium is not a separate part of your grade; I will count this as your homework and participation for week 7. </div>
 
-### Expectations
+## Expectations
 
 The only broad requirement I have for you is that you somehow apply the methodology of one of our readings so far. I have more ideas about how that will work below.
 
@@ -77,7 +79,7 @@ Please submit some kind of written work in your `homework submit` folder that re
 
 In class on Tuesday, I hope we can have a robust discussion of what you all found and how you were able to use the readings to help you. I will be paying special attention to everyone's participation in this week!
 
-### How you might apply each of the readings so far
+## How you might apply each of the readings so far
 
 I've ordered this from most to least easy to implement (in my estimation).
 
