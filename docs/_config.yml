@@ -42,7 +42,7 @@ future: true
 toc:
   min_level: 2
   max_level: 3
-  ordered_list: true
+  ordered_list: false
   no_toc_section_class: toc-container
   list_id: toc
   list_class: section-nav
