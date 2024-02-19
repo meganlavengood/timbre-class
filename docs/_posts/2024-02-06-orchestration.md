@@ -56,7 +56,7 @@ Prepare for the analysis symposium (instructions below!)
 
 {{site.week7}}: Analysis Symposium
 
-This week, we'll have no new readings. Instead, everyone will collaborate on an analysis project. We will analyze one of my favorite orchestral pieces, *Rite of Spring* by Igor Stravinsky (1913). A score and recording are available on Teams.
+This week, we'll have no new readings. Instead, everyone will collaborate on an analysis project. We will analyze one of my favorite orchestral pieces, *Rite of Spring* by Igor Stravinsky (1913). Materials are available on Teams in a folder titled `Analysis Symposium materials`.
 
 I've selected two movements for us to focus on. I'd like groups to work together on the following movements:
 
