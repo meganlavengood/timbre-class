@@ -75,13 +75,13 @@ I also encourage you to bring your particular expertise into the discussion (esp
 
 Please listen extensively to both movements and to the whole work. While your analytical focus should be on your assigned movement, you should know the whole piece well.
 
-Please submit some kind of written work in your `homework submit` folder that represents your preparation for the discussion. **This will count as your homework submission for Week 7.**
+**By class time on Tuesday,** please submit some kind of written work in your `homework submit` folder that represents your preparation for the discussion. Note that this is a different deadline than normal homework submissions. **This will count as your homework submission for Week 7.**
 
 In class on Tuesday, I hope we can have a robust discussion of what you all found and how you were able to use the readings to help you. I will be paying special attention to everyone's participation in this week!
 
 ## How you might apply each of the readings so far
 
-I've ordered this from most to least easy to implement (in my estimation).
+I've ordered this from easiest to to implement (in my estimation).
 
 1. McAdams et al 2022
    1. Parse the score into auditory streams and annotate the score to show these streams
