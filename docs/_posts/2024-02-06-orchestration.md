@@ -88,7 +88,7 @@ I've ordered this from easiest to to implement (in my estimation).
    2. Label the annotated streams with any orchestral grouping effects at play. I imagine that **concurrent** effects (blend or non-blend and its subcategories) will be most interesting, followed by segmental effects, then sequential. But follow your instincts.
 2. Dolan 2013
    1. Identify orchestral gestures Dolan defines through Haydn: *premier coup d'archet*, slow openings, use of solo/concertante writing versus orchestral tutti, thematic growth, thematic variation via orchestration, and anything else you've extracted from the reading.
-   2. Develop a layer graph (I'm searching for a musicxml file of this piece)
+   2. Use Orcheil to create a layer graph (or create your own from scratch, if you're brave!).
 3. Reymore 2022: Identify moments of surprising orchestral pairings or contrasts and use the Euclidean distance measurements and/or the timbral trait profiles to attempt to explain the contrast/pairing and why it is (or isn't…? dare you criticize Stravinsky?) effective.
 4. Eidsheim and Whelden 2018: Research the cultural context for this piece, especially Stravinsky's "primitivist" style and the riot at the piece's premiere. (Please be sure to use scholarly sources; if you are unsure you can evaulate this properly, please don't choose this activity). Imagine the experience of the premiere, and analyze the dissonance between listener expectations and what they were presented with at the premiere, in a way similar to the authors' analysis of Bobby Caldwell. 
 
