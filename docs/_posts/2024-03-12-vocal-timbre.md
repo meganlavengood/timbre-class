@@ -78,19 +78,19 @@ Using Sonic Visualiser as an aid, create an analysis similar to Duguay's Example
 4. Create a row for each section of the song indicated in the lyrics file. Break out your analysis into these different sections. You might find it useful to use your Time Instants data for this.
 5. For **width, environment, and layering**, you will analyze through aural analysis (close listening) of the isolated vocals. The spectrogram may help you navigate the recording and attend to certain features, but there are no special tools in Sonic Visualiser to do the work for you.
 6. For **pitch range**, because Beyoncé and Grace Jones sometimes sing together, the Smoothed Pitch Track will not be totally accurate, but it is helpful. 
-  1. Listen closely to the isolated vocal track while watching the spectrogram + Smoothed Pitch Track overlay. 
-  2. When it seems like the Smoothed Pitch Track missed the fundamental, temporarily hide it by toggling off the Show button in the bottom right of the property boxes; then, when you hover over the correct fundamental on the spectrogram, you should see a box pop up on the top right of the spectrogram that shows the frequency at the point your mouse is over ([screenshot](../assets/frequency-id.png)).
-  3. For each section, write down the highest and lowest pitch, separated by vocalist.
+   1. Listen closely to the isolated vocal track while watching the spectrogram + Smoothed Pitch Track overlay. 
+   2. When it seems like the Smoothed Pitch Track missed the fundamental, temporarily hide it by toggling off the Show button in the bottom right of the property boxes; then, when you hover over the correct fundamental on the spectrogram, you should see a box pop up on the top right of the spectrogram that shows the frequency at the point your mouse is over ([screenshot](../assets/frequency-id.png)).
+   3. For each section, write down the highest and lowest pitch, separated by vocalist.
 7. For **prominence**, you will have to export some data generated through Sonic Visualiser plugins and do some math with Excel.
-  1. Prominence needs data from the full audio track (not just the isolated vocals). Start a new Sonic Visualiser session and import the complete audio for "MOVE". 
-  2. Go to **Transform > Analysis by maker > libxtract > A–S > RMS Amplitude**. Change the **Window increment** setting to 4096; hit "OK" to generate the analysis.
-  3. Export the RMS Amplitude layer as you did last week. Make sure you title the file something distinct from the other RMS amplitude file you generated with the isolated vocals.
-  5. In `duguay-template.xlsx`, open the second tab, titled `prominence calculation`. 
-  6. Paste the data from Time Instants into **all three** of the empty tables. Select those cells you just pasted, and change their background to yellow (this makes them easier to find in the next few steps).
-  7. Paste the data from the **isolated** RMS Amplitude into the **gray** empty table, underneath the highlighted Time Instants cells, so that everything is in one table.
-  8. Paste the data from the **complete** RMS Amplitude into the **blue** empty table, underneath the highlighted Time Instants cells, so that everything is in one table.
-  9. In both tables, click the little arrow on the header cell titled `time (seconds)` and sort the data from smallest to largest. The highlighted cells with form labels will now be properly distributed through the column of data, dividing the data up into sections.
-  10. To calculate the average RMS amplitude of a section, go into the corresponding cell in the **yellow** table and type `=average(` and then use your mouse to click and drag to select all the cells in a section.
-  11. Finally, the last column in the **yellow** table will calculate the prominence according to the formula laid out by Duguay, using the formula `=([@[isolated avg]]/[@[complete avg]])*100`. This number is what you would enter in your summary table, on the other tab of the Excel sheet.
+   1. Prominence needs data from the full audio track (not just the isolated vocals). Start a new Sonic Visualiser session and import the complete audio for "MOVE". 
+   2. Go to **Transform > Analysis by maker > libxtract > A–S > RMS Amplitude**. Change the **Window increment** setting to 4096; hit "OK" to generate the analysis.
+   3. Export the RMS Amplitude layer as you did last week. Make sure you title the file something distinct from the other RMS amplitude file you generated with the isolated vocals.
+   4. In `duguay-template.xlsx`, open the second tab, titled `prominence calculation`. 
+   5. Paste the data from Time Instants into **all three** of the empty tables. Select those cells you just pasted, and change their background to yellow (this makes them easier to find in the next few steps).
+   6. Paste the data from the **isolated** RMS Amplitude into the **gray** empty table, underneath the highlighted Time Instants cells, so that everything is in one table.
+   7. Paste the data from the **complete** RMS Amplitude into the **blue** empty table, underneath the highlighted Time Instants cells, so that everything is in one table.
+   8. In both tables, click the little arrow on the header cell titled `time (seconds)` and sort the data from smallest to largest. The highlighted cells with form labels will now be properly distributed through the column of data, dividing the data up into sections.
+   9. To calculate the average RMS amplitude of a section, go into the corresponding cell in the **yellow** table and type `=average(` and then use your mouse to click and drag to select all the cells in a section.
+   10. Finally, the last column in the **yellow** table will calculate the prominence according to the formula laid out by Duguay, using the formula `=([@[isolated avg]]/[@[complete avg]])*100`. This number is what you would enter in your summary table, on the other tab of the Excel sheet.
 
 Once you are (finally…) all done, go to **File > Export > PDF**. Title your PDF with something belonging with `10` (the week number). Upload to your homework submit folder.
