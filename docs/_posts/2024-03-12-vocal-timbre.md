@@ -70,9 +70,9 @@ Discussion leaders: {{site.discussion10}}
 
 This homework assignment will continue to build on the Sonic Visualiser session you created last week, so begin by loading your Sonic Visualiser session. (If you lost your file, redo the assignment from last week…!)
 
-Using Sonic Visualiser as an aid, create an analysis similar to Duguay's Example 18. 
+Using Sonic Visualiser as an aid, create an analysis similar to Duguay's Example 18. "MOVE" has two singers, whose vocals I'd like you to analyze separately: Beyoncé and Grace Jones. If you don't already know how to distinguish their voices, just listen to a track by each of them—they are pretty different so I don't think you'll need much training.
 
-1. "MOVE" has two singers, whose vocals I'd like you to analyze separately: Beyoncé and Grace Jones. If you don't already know how to distinguish their voices, just listen to a track by each of them—they are pretty different so I don't think you'll need much training.
+1. Open your Sonic Visualiser session from last week.
 2. I have uploaded a template chart to Teams, titled `duguay-template.xlsx`. Download a copy of the chart (please do not edit the one on Teams) to record your analysis.
 3. Export both your Time Instants layer and your RMS Amplitude as CSV files by going to **File > Export annotation layer**. Open both files.
 4. Create a row for each section of the song indicated in the lyrics file. Break out your analysis into these different sections. You might find it useful to use your Time Instants data for this.
