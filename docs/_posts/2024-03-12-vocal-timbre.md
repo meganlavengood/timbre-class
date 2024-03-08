@@ -93,4 +93,4 @@ Using Sonic Visualiser as an aid, create an analysis similar to Duguay's Example
    9. To calculate the average RMS amplitude of a section, go into the corresponding cell in the **yellow** table and type `=average(` and then use your mouse to click and drag to select all the cells in a section.
    10. Finally, the last column in the **yellow** table will calculate the prominence according to the formula laid out by Duguay, using the formula `=([@[isolated avg]]/[@[complete avg]])*100`. This number is what you would enter in your summary table, on the other tab of the Excel sheet.
 
-Once you are (finally…) all done, go to **File > Export > PDF**. Title your PDF with something belonging with `10` (the week number). Upload to your homework submit folder.
+Once you are (finally…) all done, go to **File > Export > PDF**. Title your PDF with something beginning with `10` (the week number). Upload to your homework submit folder.
