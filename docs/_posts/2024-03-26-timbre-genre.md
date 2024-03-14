@@ -13,6 +13,12 @@ This topic is here also because I am exceptionally busy these few weeks, between
 
 {{site.week11}}
 
+<div class="border-box">I will not be holding a class meeting this week because I have to go to a choir rehearsal. If you like, you can meet without me. (Is that too dorky for anyone to do? I don't know.) Anyone is able to start the meeting on Teams. So maybe optionally, if you'd like to still have discussion, you can log on without me. But that is absolutely optional!
+
+But as you can see, the reading is my own article, so I will be especially adept at answering any questions you have! Please post questions in the homework help channel on Teams. Maybe we can have a nice asynchronous discussion that way.
+
+We can also discuss this week's reading during next week's class.</div>
+
 {{site.reading11}}
 
 {{site.homework11}}
@@ -69,4 +75,4 @@ Discussion leaders: {{site.discussion13}}
 
 {{site.homework13}}
 
-TBD
+Work on the [final project worksheet](2024-04-16-final-project.md).
