@@ -28,7 +28,7 @@ In this assignment, you will use Auralayer to visualize different instrumental l
 1. Navigate to [Auralayer](https://brianedwardjarvis.com/auralayer/auralayer.html).
 2. Paste YouTube URL for “Toxic”: `https://www.youtube.com/watch?v=LOZuxwVk7TU`
 3. Expand the “Media” collapsible and click on the video to initiate playback. You can pause again immediately if you like—you just need to click it to get playback initialized.
-4. Create layers (N) and name them (click on layer, click gear, click pencil). You will have to listen closely to determine what layers are present. I _very highly_ recommend using high-quality headphones for this. There are subtle details you'll miss if you can't hear clearly. 
+4. Create layers (N) and name them (click on layer, click gear, click pencil). Make a different layer for each instrument/voice you hear. You will have to listen closely to determine what instruments are present. I _very highly_ recommend using high-quality headphones for this. There are subtle details you'll miss if you can't hear clearly. 
 5. Color-code the layers based on their functional layer type (explicit beat layer, functional bass layer, harmonic filler layer, melody layer, novelty layer). Change the color of a layer by clicking on it, clicking the gear, and clicking the paint bucket icon.
 6. Optional: create spacers between layers to further separate them.
 7. Hold shift and click all the layers until they are all selected. Listen to the song and press S whenever you hear a layer enter or exit. This will create a split in all the layers. This is a nice way to get started.
