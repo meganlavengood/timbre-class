@@ -93,6 +93,7 @@ While I will do my best to show up for and with other, I understand that there m
 
 **Name:** Dr. Lavengood (she/her), pronounced “LAY-ven-good”  
 **Email:** mlavengo@gmu.edu  
+**Phone/text:** 703-993-6272 (this is a work number so don't worry about intruding)
 **Office:** deLaski Performing Arts Building (PAB) A-421   
 **Communication:** I will answer emails within 24 hours. I am also happy to use Teams to chat with you in a channel or one-on-one.
 
