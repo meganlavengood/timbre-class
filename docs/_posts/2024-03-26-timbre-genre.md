@@ -75,4 +75,4 @@ Discussion leaders: {{site.discussion13}}
 
 {{site.homework13}}
 
-Work on the [final project worksheet](2024-04-16-final-project.md).
+Work on the [final project worksheet](/2024/final-project.html).
