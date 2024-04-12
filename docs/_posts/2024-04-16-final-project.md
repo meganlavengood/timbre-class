@@ -40,7 +40,7 @@ The video will be like a first draft of your final paper. This will be an opport
 -   Use the worksheet you submitted and my feedback as a guide for your content. However, your video should go deeper than your worksheet. You should have specific analysis by this point.
 -   Analysis must engage with one or more methodologies discussed in class. This is where the majority of the points are—failure to do this will certainly result in a poor grade.
 -   You should have a clear thesis statement in your video, and all your analysis should tie into the thesis statement.
--   Your video should be, at most, 10 minutes long. This correlates to about five double-spaced pages of writing. It’s really not much so make sure you’re tightly organized.
+-   Your video should be, at most, 10 minutes long. This correlates to about five double-spaced pages of writing. It’s really not much so make sure you’re tightly organized. I suggest taking on only one of your three examples/facts (referenced in the prep worksheet).
 -   Please make sure I have access to all necessary material to understand your paper (files or links for relevant video/audio, transcriptions, etc.).
 -   You should have a powerpoint presentation or some other comparable visuals.
 -   **This video is too short to include historical context—get straight to your analysis!** Historical context will not help your grade and will only give you less space to present.
@@ -72,7 +72,7 @@ The video will be like a first draft of your final paper. This will be an opport
 </tr>
 <tr class="row-3 odd">
 	<td class="column-2">Examples<br>
-(10)</td><td class="column-3">3 or more specific examples, analyzed in detail. (10)</td><td class="column-4">3 specific examples, but sometimes superficial analysis. (7)</td><td class="column-5">Less than 3 specific examples. Not detailed enough. (5)</td>
+(10)</td><td class="column-3">1 or more specific example, analyzed in detail. (10)</td><td class="column-4">1 specific example, but superficial analysis. (5)</td><td class="column-5">No specific examples. (0)</td>
 </tr>
 <tr class="row-4 even">
 	<td class="column-2">Methodology (30)</td><td class="column-3">Analysis relies on and deeply engages with a methodology learned in the course. (30)</td><td class="column-4">Methodology is clearly referenced but is not executed properly, or could use a more in-depth treatment. (20)</td><td class="column-5">Methodology is&nbsp; mentioned but not really used. (10)</td>
