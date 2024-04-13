@@ -25,8 +25,6 @@ To get you started, I have designed a worksheet that helps you think through you
 
 Save as a PDF and upload to your **homework submit** folder by **{{site.final-worksheet}}.**
 
-In class, I'll have each of you share your worksheet with everyone and we will discuss and give early feedback on your paper topic.
-
 -------
 
 ## Video
