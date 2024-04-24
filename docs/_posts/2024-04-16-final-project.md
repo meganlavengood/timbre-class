@@ -96,7 +96,7 @@ The video will be like a first draft of your final paper. This will be an opport
 
 The peer review process is intended to mimic the process of reviewing an article for a journal. In addition to this practical experience, the review process should help you learn to pinpoint similar issues in your own work, and will allow you to get feedback from multiple perspectives (not just mine).
 
-Peer review assignments will be posted to the #general channel on Teams. Further guidance is posted there.
+Peer review assignments will be posted to the General channel on Teams in a spreadsheet titled `Peer Review Assignments.xlsx`. Each student will be given two other students to review.
 
 ### Content
 
